@@ -78,3 +78,5 @@ and usage in layouts:
         android:text="@string/hello_world"
         style="@style/OpenSans.Bold"
         />
+
+a test
